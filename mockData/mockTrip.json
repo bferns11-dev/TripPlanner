@@ -1,0 +1,34 @@
+{
+  "tripId":"123",
+  "tripName":"Trip to Goa",
+  "days": 
+		[ 
+			{	
+				"dayNumber":"1", 
+				"events":[
+							{"time":"05:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
+							{"time":"12:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
+							{"time":"01:30 PM", "eventTitle":"Food", "eventDescription":"Meal plans"},
+							{"time":"03:30 PM", "eventTitle":"Beach", "eventDescription":"Outing plans"}
+						]
+			},
+			{	
+				"dayNumber":"2", 
+				"events":[
+							{"time":"08:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
+							{"time":"01:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
+							{"time":"02:30 PM", "eventTitle":"Food", "eventDescription":"Meal plans"},
+							{"time":"03:30 PM", "eventTitle":"Beach", "eventDescription":"Outing plans"}
+						]
+			},
+			{	
+				"dayNumber":"3", 
+				"events":[
+							{"time":"07:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
+							{"time":"12:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
+							{"time":"03:30 PM", "eventTitle":"Food", "eventDescription":"Meal plans"},
+							{"time":"05:30 PM", "eventTitle":"Beach", "eventDescription":"Outing plans"}
+						]
+			}
+		]
+}
