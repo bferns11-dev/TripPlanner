@@ -4,7 +4,8 @@
   "days": 
 		[ 
 			{	
-				"dayNumber":"1", 
+				"dayNumber":"1",
+				"date":"23-Mar-2020"
 				"events":[
 							{"time":"05:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
 							{"time":"12:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
@@ -13,7 +14,8 @@
 						]
 			},
 			{	
-				"dayNumber":"2", 
+				"dayNumber":"2",
+				"date":"24-Mar-2020"
 				"events":[
 							{"time":"08:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
 							{"time":"01:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
@@ -22,7 +24,8 @@
 						]
 			},
 			{	
-				"dayNumber":"3", 
+				"dayNumber":"3",
+				"date":"25-Mar-2020"
 				"events":[
 							{"time":"07:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
 							{"time":"12:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
