@@ -6,34 +6,70 @@
 			{	
 				"dayNumber":"1",
 				"date":"23-Mar-2020",
-				"dayDescription":"",
+				"dayDescription":"Day 1 sample description",
 				"events":[
-							{"time":"05:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
-							{"time":"12:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
-							{"time":"01:30 PM", "eventTitle":"Food", "eventDescription":"Meal plans"},
-							{"time":"03:30 PM", "eventTitle":"Beach", "eventDescription":"Outing plans"}
+							{"time":"05:30 AM", 
+							 "eventTitle":"Travel",
+							 "eventDescription":"Travel plans",
+							 "checkList":[]},
+							{"time":"12:30 PM",
+							 "eventTitle":"Stay Reservation",
+							 "eventDescription":"Reservation plans",
+							 "checkList":[]},
+							{"time":"01:30 PM",
+							 "eventTitle":"Food",
+							 "eventDescription":"Meal plans",
+							 "checkList":[]},
+							{"time":"03:30 PM",
+							 "eventTitle":"Beach",
+							 "eventDescription":"Outing plans",
+							 "checkList":[]}
 						]
 			},
 			{	
 				"dayNumber":"2",
 				"date":"24-Mar-2020",
-				"dayDescription":"",
+				"dayDescription":"Day 2 sample description",
 				"events":[
-							{"time":"08:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
-							{"time":"01:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
-							{"time":"02:30 PM", "eventTitle":"Food", "eventDescription":"Meal plans"},
-							{"time":"03:30 PM", "eventTitle":"Beach", "eventDescription":"Outing plans"}
+							{"time":"08:30 AM",
+							 "eventTitle":"Travel",
+							 "eventDescription":"Travel plans",
+							 "checkList":[]},
+							{"time":"01:30 PM",
+							 "eventTitle":"Stay Reservation", 
+							 "eventDescription":"Reservation plans",
+							 "checkList":[]},
+							{"time":"02:30 PM",
+							 "eventTitle":"Food",
+							 "eventDescription":"Meal plans",
+							 "checkList":[]},
+							{"time":"03:30 PM",
+							 "eventTitle":"Beach",
+							 "eventDescription":"Outing plans",
+							 "checkList":[]}
 						]
 			},
 			{	
 				"dayNumber":"3",
 				"date":"25-Mar-2020",
-				"dayDescription":"",
+				"dayDescription":"Day 3 sample description",
 				"events":[
-							{"time":"07:30 AM", "eventTitle":"Travel", "eventDescription":"Travel plans"},
-							{"time":"12:30 PM", "eventTitle":"Stay Reservation", "eventDescription":"Reservation plans"},
-							{"time":"03:30 PM", "eventTitle":"Food", "eventDescription":"Meal plans"},
-							{"time":"05:30 PM", "eventTitle":"Beach", "eventDescription":"Outing plans"}
+							{"time":"07:30 AM",
+							 "eventTitle":"Travel",
+							 "eventDescription":"Travel plans",
+							 "checkList":[]},
+							{"time":"12:30 PM",
+							 "eventTitle":"Stay Reservation",
+							 "eventDescription":"Reservation plans",
+							 "checkList":[]},
+							{"time":"03:30 PM",
+							 "eventTitle":"Food",
+							 "eventDescription":"Meal plans",
+							 "checkList":[]},
+							{"time":"05:30 PM", 
+							 "eventTitle":"Beach",
+							 "eventDescription":"Outing plans",
+							 "checkList":[]}
 						]
 			}
 		]
