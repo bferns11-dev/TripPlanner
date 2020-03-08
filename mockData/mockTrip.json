@@ -11,22 +11,19 @@
 							{"time":"05:30 AM", 
 							 "eventTitle":"Travel",
 							 "eventDescription":"Travel plans",
-							 "checkList":["Switch off lights and fans", 
-								      "Turn off the geyser",
-								      "Check for torch and keys",
-								      "Check for tickets and coupons"]},
+							 "checkList":"Switch off lights and fan, Turn off the geyser, Check for torch and keys, Check for tickets and coupons"},
 							{"time":"12:30 PM",
 							 "eventTitle":"Stay Reservation",
 							 "eventDescription":"Reservation plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"01:30 PM",
 							 "eventTitle":"Food",
 							 "eventDescription":"Meal plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"03:30 PM",
 							 "eventTitle":"Beach",
 							 "eventDescription":"Outing plans",
-							 "checkList":[]}
+							 "checkList":""}
 						]
 			},
 			{	
@@ -37,19 +34,19 @@
 							{"time":"08:30 AM",
 							 "eventTitle":"Travel",
 							 "eventDescription":"Travel plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"01:30 PM",
 							 "eventTitle":"Stay Reservation", 
 							 "eventDescription":"Reservation plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"02:30 PM",
 							 "eventTitle":"Food",
 							 "eventDescription":"Meal plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"03:30 PM",
 							 "eventTitle":"Beach",
 							 "eventDescription":"Outing plans",
-							 "checkList":[]}
+							 "checkList":""}
 						]
 			},
 			{	
@@ -60,19 +57,19 @@
 							{"time":"07:30 AM",
 							 "eventTitle":"Travel",
 							 "eventDescription":"Travel plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"12:30 PM",
 							 "eventTitle":"Stay Reservation",
 							 "eventDescription":"Reservation plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"03:30 PM",
 							 "eventTitle":"Food",
 							 "eventDescription":"Meal plans",
-							 "checkList":[]},
+							 "checkList":""},
 							{"time":"05:30 PM", 
 							 "eventTitle":"Beach",
 							 "eventDescription":"Outing plans",
-							 "checkList":[]}
+							 "checkList":""}
 						]
 			}
 		]
